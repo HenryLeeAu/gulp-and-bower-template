@@ -1,0 +1,20 @@
+{
+  "name": "hello template",
+  "description": "it is a test app",
+  "main": "index.js",
+  "authors": [
+    "Hanwei Lee"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./app/js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}

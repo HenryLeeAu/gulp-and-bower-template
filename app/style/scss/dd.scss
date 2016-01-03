@@ -1,0 +1,14 @@
+body{
+	background:#278aef;
+	
+    
+}
+div{
+    font-size: 32px;
+    &:hover{
+        background: #ffcc00;
+     }
+    &:active{
+        background: rgb(255, 5, 5);
+     }
+}
